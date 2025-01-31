@@ -24,4 +24,6 @@
 
 ### Resutados
 
-![Alt text](./confirmPasswd.png "Optional title")
+![Alt text](./fig.png "Optional title")
+
+![Alt text](./passwd.png "Optional title")
